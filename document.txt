@@ -1,0 +1,10 @@
+- Học được cách dùng innerHTML
+- Local Storage:
+    + localStorage.setItem('keyName', value)
+    + localStorage.getItem('keyName')
+    + localStorage.removeItem('keyName')
+- JSON:
+    + JSON.stringify
+    + JSON.parse
+- JS array:
+    + .splice(index, n): Xoá n phần tử trong mảng bắt đầu từ vị trí index
